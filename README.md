@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Martijn
-- 👀 I’m a former IT Recruiter that's making a career switch to become a developer
 - 🌱 I’m currently learning Java
   
 - 💞️ I’m looking to collaborate on ...
